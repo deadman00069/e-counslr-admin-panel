@@ -38851,7 +38851,7 @@ A.oS.prototype={
 ak(){return new A.SH(B.j)}}
 A.SH.prototype={
 F(a,b){var s=null
-return A.rH(s,A.dW(A.ba("Sppl",s,s,s,s,s,s,s),s,s),!1,s)},
+return A.rH(s,A.dW(A.ba("Spplash",s,s,s,s,s,s,s),s,s),!1,s)},
 ay(){this.b1()
 var s=t.z
 A.qH(A.cs(0,0,2),s).bX(0,new A.aho(this),s)}}
